@@ -60,8 +60,13 @@ def max_marks(list1):
 ```
 ## Output:
 ![image](https://github.com/roshiniRK/FindMaximum/assets/118956165/59f6e64f-7195-46b9-b3b5-6e4b7fbb4203)
+
+
 ![image](https://github.com/roshiniRK/FindMaximum/assets/118956165/55610457-850a-401b-87b1-1c975ce8c7f7)
+
+
 ![image](https://github.com/roshiniRK/FindMaximum/assets/118956165/b53f6bad-cc7f-459a-ba37-351db94ff118)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
